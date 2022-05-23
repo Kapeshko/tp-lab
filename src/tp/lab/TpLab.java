@@ -6,7 +6,7 @@ package tp.lab;
 
 /**
  *
- * @author 13691
+ * @author I am
  */
 public class TpLab {
 
